@@ -5,10 +5,9 @@ Bot Project
 Setiap user punya uang virtual dari hasil quiz.
 
 Fitur
-!poin → cek data uang user
-!quiz → user dikasi quiz, adda beberapa tingkat kesulitan, kalo benar user dikasi uang, kalo salah user ga dapet uang. user bisa pilih tingkatan level
-!helpquiz → berisi materi materi untuk soal, user pilih tingkatan levelnya
-!Leaderboard terkaya → nunjukin peringkat uang terbanyak
+- !poin → cek data uang user
+- !quiz → user dikasi quiz, ada beberapa tingkat kesulitan, kalo benar user dikasi uang, kalo salah user ga dapet uang. user bisa pilih tingkatan level
+- !helpquiz → berisi materi materi untuk soal, user pilih tingkatan levelnya
 
 library yg diperlukan
 1. discord.py
