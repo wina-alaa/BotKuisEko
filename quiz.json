@@ -1,0 +1,176 @@
+{
+    "mudah":{
+        "help_quiz": [
+            "Materi pertanyaan:",
+            "Ilmu ekonomi adalah ilmu yang mempelajari bagaimana manusia memenuhi kebutuhan hidupnya yang tidak terbatas dengan sumber daya yang terbatas.",
+            "Dalam ekonomi ada beberapa kegiatan ekonomi, di antaranya: Distribusi (kegiatan mengantarkan barang), Produksi (keegiatan membuat barang baru, atau jasa), Konsumsi (Kegiatan menggunakan barang maupun jasa).",
+            "Uang adalah alat tukar yang digunakan untuk membeli barang dan jasa serta diterima oleh masyarakat sebagai alat pembayaran yang sah.",
+            "Kebutuhan Primer (Kebutuhan yang wajib dipenuhi untuk bertahan hidup, kalau tidak dipenuhi → bisa mengganggu kelangsungan hidup.), Kebutuhan Sekunder (Kebutuhan setelah primer terpenuhi, tidak dipenuhi → tidak mengancam hidup, tapi kurang nyaman.), Kebutuhan Tersier (Kebutuhan untuk kemewahan atau prestise. Biasanya dipenuhi setelah primer & sekunder terpenuhi.)"
+        ],
+        "reward": 100,
+        "quiz_list":[
+            {
+                "question": "Ilmu yang mempelajari cara memenuhi kebutuhan hidup disebut?",
+                "options": {
+                    "A": "ilmu ekonomi",
+                    "B": "ilmu perikanan",
+                    "C": "ilmu hitam"
+                },
+                "answer":"A"
+            },
+            {
+                "question": "kebutuhan primer adalah?",
+                "options": {
+                    "A": "kebutuhan yang tidak perlu",
+                    "B": "kebutuhan yang untuk memuaskan hasrat",
+                    "C": "kebutuhan dasar"
+                },
+                "answer":"C" 
+            },
+            {
+                "question": "Orang yang menggunakan barang disebut?",
+                "options": {
+                    "A": "Ditributor",
+                    "B": "Konsumen",
+                    "C": "Produsen"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Uang digunakan sebagai alat?",
+                "options": {
+                    "A": "Transaksi",
+                    "B": "Makan",
+                    "C": "Mandi"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Contoh kebutuhan primer adalah?",
+                "options": {
+                    "A": "Belanja barang mewah",
+                    "B": "Memenuhi kebutuhan sekolah",
+                    "C": "Memakan makanan"
+                },
+                "answer": "C"
+            }
+        ]
+    },
+
+    "sedang":{
+        "help_quiz": [
+            "Materi pertanyaan:",
+            "Dalam ekonomi ada beberapa kegiatan ekonomi, di antaranya: Distribusi (kegiatan mengantarkan barang), Produksi (keegiatan membuat barang baru, atau jasa), Konsumsi (Kegiatan menggunakan barang maupun jasa). ",
+            "Kelangkaan terjadi karena kebutuhan manusia tidak terbatas, sedangkan alat pemuas kebutuhan (sumber daya) terbatas, yang intinya Kelangkaan terjadi karena ketidakseimbangan antara kebutuhan dan ketersediaan sumber daya.",
+            "Jika harga suatu barang naik, maka jumlah yang diminta akan turun. Sebaliknya, jika harga turun, maka jumlah yang diminta akan naik.",
+            "Kebutuhan Primer (Kebutuhan yang wajib dipenuhi untuk bertahan hidup, kalau tidak dipenuhi → bisa mengganggu kelangsungan hidup.), Kebutuhan Sekunder (Kebutuhan setelah primer terpenuhi, tidak dipenuhi → tidak mengancam hidup, tapi kurang nyaman.), Kebutuhan Tersier (Kebutuhan untuk kemewahan atau prestise. Biasanya dipenuhi setelah primer & sekunder terpenuhi.)"
+        ],
+        "reward": 200,
+        "quiz_list":[
+            {
+                "question": "Kegiatan membuat barang disebut?",
+                "options": {
+                    "A": "Distribusi",
+                    "B": "Produksi",
+                    "C": "Konsumsi"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "Kelangkaan terjadi karena sumber daya bersifat?",
+                "options": {
+                    "A": "Terbatas",
+                    "B": "Tak terhingga",
+                    "C": "Dimiliki seseorang"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Dalam hukum permintaan, jika harga turun biasanya permintaan akan?",
+                "options": {
+                    "A": "Naik",
+                    "B": "Tetap",
+                    "C": "Turun"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Contoh kegiatan distribusi adalah?",
+                "options": {
+                    "A": "Membeli barang",
+                    "B": "Membuat barang",
+                    "C": "Mengantar barang"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Kebutuhan mewah disebut kebutuhan?",
+                "options": {
+                    "A": "Kebutuhan primer",
+                    "B": "Kebutuhan tersier",
+                    "C": "Kebutuhan sekunder"
+                },
+                "answer": "B"
+            }
+        ]
+    },
+
+    "sulit": {
+        "help_quiz": [
+        "Materi pertanyaan:",
+        "Hukum penawaran: Jika harga naik, jumlah barang yang ditawarkan bertambah.",
+        "Modal adalah barang yang digunakan untuk menghasilkan barang lain.",
+        "Pasar modal adalah tempat jual beli instrumen keuangan jangka panjang seperti saham dan obligasi.",
+        "Dividen adalah pembagian laba perusahaan kepada pemegang saham.",
+        "Peran pasar modal: menciptakan lapangan kerja, meningkatkan pertumbuhan ekonomi, dan memberi kesempatan investasi."
+        ],
+        "reward": 300,
+        "quiz_list":[
+            {
+                "question": "Dalam hukum penawaran, jika harga naik biasanya jumlah barang yang ditawarkan akan?",
+                "options": {
+                    "A": "Bertambah",
+                    "B": "Tetap",
+                    "C": "Berkurang"
+                },
+                "answer": "A"
+            },
+            {
+                "question": "Barang yang digunakan untuk menghasilkan barang lain disebut?",
+                "options": {
+                    "A": "Barang Primer",
+                    "B": "Uang pinjaman",
+                    "C": "Modal"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Apa yang dimaksud dengan Pasar Modal?",
+                "options": {
+                    "A": "Tempat jual beli produk dan jasa",
+                    "B": "Lembaga pemerintah perdagangan internasional",
+                    "C": "Tempat untuk membeli dan menjual instrumen keuangan jangka panjang"
+                },
+                "answer": "C"
+            },
+            {
+                "question": "Pembagian keuntungan yang diberikan perusahaan kepada pemegang saham atau investor disebut",
+                "options": {
+                    "A": "Bunga biasanya untuk tabungan atau pinjaman",
+                    "B": "Pembagian laba perusahaan kepada pemegang saham",
+                    "C": "Keuntungan dari selisih harga jual dan beli saham"
+                },
+                "answer": "B"
+            },
+            {
+                "question": "peran pasar modal dalam perekonomian adalah",
+                "options": {
+                    "A": "Menciptakan lapangan kerja baru, Meningkatkan pertumbuhan dan pembangunan ekonomi, Memberikan kesempatan masyarakat untuk berinvestasi dan memperoleh keuntungan",
+                    "B": "Memberikan kesempatan masyarakat untuk berinvestasi dan memperoleh keuntungan, Meningkatkan citra perusahaan dalam negeri bagi investor asing, Menciptakan lapangan kerja baru",
+                    "C": "Menjaga kelancaran sistem pembayaran dan stabilitas sistem keuangan, Meningkatkan citra perusahaan dalam negeri bagi investor asing, Memberikan kesempatan masyarakat untuk berinvestasi dan memperoleh keuntungan"
+                },
+                "answer": "A"
+            }
+        ]
+    }
+}
